@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/github.com/react2025/static/css/main.c313f280.css",
+    "main.js": "/github.com/react2025/static/js/main.95091474.js",
+    "static/media/Sample4.jpg": "/github.com/react2025/static/media/Sample4.1693e45979fa3eaed945.jpg",
+    "static/media/Sample2.jpg": "/github.com/react2025/static/media/Sample2.ad9544397850bc6f1ef3.jpg",
+    "static/media/Sample1.jpg": "/github.com/react2025/static/media/Sample1.96a059f95809919de6ef.jpg",
+    "static/media/Sample3.jpg": "/github.com/react2025/static/media/Sample3.a961daef1db26cfe702a.jpg",
+    "index.html": "/github.com/react2025/index.html",
+    "main.c313f280.css.map": "/github.com/react2025/static/css/main.c313f280.css.map",
+    "main.95091474.js.map": "/github.com/react2025/static/js/main.95091474.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c313f280.css",
+    "static/js/main.95091474.js"
+  ]
+}
